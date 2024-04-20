@@ -100,7 +100,7 @@ input, select, textarea {
 	body, input, textarea, select {
 		font-family: 'Open Sans', sans-serif;
 		line-height: 1.85em;
-		color: #888;
+		color: #000000;
 		font-weight: 300;
 		font-size: 13pt;
 	}
@@ -2134,9 +2134,6 @@ input, select, textarea {
 
 	#contact footer {
 		font-size: 0.9em;
-	}
-	.box.rounded {
-		border-radius: 15px; /* Adjust the value as needed for desired corner roundness */
 	}
 	
 
